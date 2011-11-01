@@ -1,6 +1,6 @@
 name = Artesis
 description = Install a Artesis based library site.
-version = 7.x-0.3-dev
+version = 7.x-1.0
 core = 7.x
 
 files[] = artesis.profile
