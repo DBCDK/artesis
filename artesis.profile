@@ -9,7 +9,6 @@ function artesis_form_alter(&$form, $form_state, $form_id) {
   return ding2_form_alter($form, $form_state, $form_id);
 }
 
-
 function artesis_form_install_configure_form_alter(&$form, $form_state) {
   require_once(dirname(__FILE__) . '/../ding2/ding2.profile');
   return ding2_form_install_configure_form_alter($form, $form_state);

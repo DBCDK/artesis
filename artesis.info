@@ -6,6 +6,26 @@ core = 7.x
 files[] = artesis.profile
 
 ; Profiler extensions.
-base = ding2
+; base = ding2
 theme = artois
+
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = menu
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = color
+dependencies[] = translation
+
+dependencies[] = ding_user_frontend
+dependencies[] = ding_ting_frontend
+
+; CMS (Curate)
+dependencies[] = ding_event
+dependencies[] = ding_frontpage
+dependencies[] = ding_library_menu
+dependencies[] = ding_news
+
 
