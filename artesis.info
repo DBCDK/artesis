@@ -1,0 +1,11 @@
+name = Ding 2
+description = Install a Artesis based library site.
+version = 7.x-0.3-dev
+core = 7.x
+
+files[] = artesis.profile
+
+; Profiler extensions.
+base = ding2
+theme = artois
+
