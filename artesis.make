@@ -11,8 +11,8 @@ libraries[profiler][patch][] = http://drupal.org/files/profiler-reverse.patch
 projects[ding2][type] = profile
 projects[ding2][download][type] = git
 projects[ding2][download][url] = "git@github.com:ding2/ding2.git"
-projects[ding2][download][branch] = profiler
-; projects[ding2][download][tag] = 7.x-0.3-rc5
+; projects[ding2][download][branch] = profiler
+projects[ding2][download][tag] = 7.x-0.3-rc6
 
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
