@@ -17,4 +17,4 @@ projects[ding2][download][tag] = 7.x-0.3-rc10
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
-projects[artois][tag] = "7.x-0.21"
+projects[artois][download][tag] = "7.x-0.21"
