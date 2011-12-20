@@ -4,6 +4,8 @@ version = 7.x-1.0.3-rc13
 core = 7.x
 distribution_name = Artesis
 
+dependencies[] = ding_user_frontend
+
 files[] = artesis.profile
 
 ; Profiler extensions.

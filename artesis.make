@@ -13,6 +13,11 @@ projects[ding2][download][type] = git
 projects[ding2][download][url] = "git@github.com:ding2/ding2.git"
 projects[ding2][download][tag] = 7.x-0.3-rc19
 
+projects[artesis_user_frontend][type] = "module"
+projects[artesis_user_frontend][download][type] = "git"
+projects[artesis_user_frontend][download][url] = "git@github.com:DBCDK/artesis_user_frontend.git"
+projects[artesis_user_frontend][download][tag] = "7.x-0.1"
+
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
