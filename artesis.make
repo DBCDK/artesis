@@ -22,3 +22,26 @@ projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
 projects[artois][download][tag] = "7.x-0.29"
+
+
+; --- Artois versions of Ding2 modules ---
+
+projects[ding_frontend][type] = "module"
+projects[ding_frontend][download][type] = "git"
+projects[ding_frontend][download][url] = "git@github.com:DBCDK/ding_frontend.git"
+projects[ding_frontend][download][tag] = "7.x-0.20"
+
+projects[ding_user_frontend][type] = "module"
+projects[ding_user_frontend][download][type] = "git"
+projects[ding_user_frontend][download][url] = "git@github.com:DBCDK/ding_user_frontend.git"
+projects[ding_user_frontend][download][tag] = "7.x-0.21"
+
+projects[ding_ting_frontend][type] = "module"
+projects[ding_ting_frontend][download][type] = "git"
+projects[ding_ting_frontend][download][url] = "git@github.com:DBCDK/ding_ting_frontend.git"
+projects[ding_ting_frontend][download][tag] = "7.x-0.36"
+
+projects[ding_frontend][type] = "module"
+projects[ding_frontend][download][type] = "git"
+projects[ding_frontend][download][url] = "git@github.com:DBCDK/ding_frontend.git"
+projects[ding_frontend][download][tag] = "7.x-0.20"
