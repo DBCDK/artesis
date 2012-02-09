@@ -11,7 +11,7 @@ libraries[profiler][patch][] = http://drupal.org/files/profiler-reverse.patch
 projects[ding2][type] = profile
 projects[ding2][download][type] = git
 projects[ding2][download][url] = "git@github.com:ding2/ding2.git"
-projects[ding2][download][tag] = 7.x-0.4-rc5
+projects[ding2][download][tag] = 7.x-0.4-rc6
 
 projects[artesis_user_frontend][type] = "module"
 projects[artesis_user_frontend][download][type] = "git"
@@ -26,7 +26,7 @@ projects[snapengage][download][branch] = "7.x-1.x"
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
-projects[artois][download][tag] = "7.x-0.31"
+projects[artois][download][tag] = "7.x-0.32"
 
 
 ; --- Artois versions of Ding2 modules ---
@@ -34,14 +34,14 @@ projects[artois][download][tag] = "7.x-0.31"
 projects[ding_frontend][type] = "module"
 projects[ding_frontend][download][type] = "git"
 projects[ding_frontend][download][url] = "git@github.com:DBCDK/ding_frontend.git"
-projects[ding_frontend][download][tag] = "7.x-0.20.3"
+projects[ding_frontend][download][tag] = "7.x-0.20.4"
 
 projects[ding_user_frontend][type] = "module"
 projects[ding_user_frontend][download][type] = "git"
 projects[ding_user_frontend][download][url] = "git@github.com:DBCDK/ding_user_frontend.git"
-projects[ding_user_frontend][download][tag] = "7.x-0.21.1+dbc.2"
+projects[ding_user_frontend][download][tag] = "7.x-0.21.1+dbc.3"
 
 projects[ding_ting_frontend][type] = "module"
 projects[ding_ting_frontend][download][type] = "git"
 projects[ding_ting_frontend][download][url] = "git@github.com:DBCDK/ding_ting_frontend.git"
-projects[ding_ting_frontend][download][tag] = "7.x-0.36+dbc.3"
+projects[ding_ting_frontend][download][tag] = "7.x-0.36+dbc.4"
