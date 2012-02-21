@@ -36,6 +36,11 @@ projects[ding_frontend][download][type] = "git"
 projects[ding_frontend][download][url] = "git@github.com:DBCDK/ding_frontend.git"
 projects[ding_frontend][download][tag] = "7.x-0.20.4"
 
+projects[ding_library][type] = module
+projects[ding_library][download][type] = git
+projects[ding_library][download][url] = git@github.com:DBCDK/ding_library.git
+projects[ding_library][download][tag] = "7.x-0.17"
+
 projects[ding_user_frontend][type] = "module"
 projects[ding_user_frontend][download][type] = "git"
 projects[ding_user_frontend][download][url] = "git@github.com:DBCDK/ding_user_frontend.git"
