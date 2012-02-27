@@ -50,3 +50,13 @@ projects[ding_ting_frontend][type] = "module"
 projects[ding_ting_frontend][download][type] = "git"
 projects[ding_ting_frontend][download][url] = "git@github.com:DBCDK/ding_ting_frontend.git"
 projects[ding_ting_frontend][download][tag] = "7.x-0.36+dbc.5"
+
+projects[ding_dibs][type] = "module"
+projects[ding_dibs][download][type] = "git"
+projects[ding_dibs][download][url] = "git@github.com:DBCDK/ding_dibs.git"
+projects[ding_dibs][download][tag] = "7.x-0.36+dbc.5"
+
+projects[ding_debt][type] = "module"
+projects[ding_debt][download][type] = "git"
+projects[ding_debt][download][url] = "git@github.com:DBCDK/ding_debt.git"
+projects[ding_debt][download][tag] = "7.x-0.36+dbc.5"
