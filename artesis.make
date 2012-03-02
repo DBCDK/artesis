@@ -50,3 +50,13 @@ projects[ding_debt][type] = "module"
 projects[ding_debt][download][type] = "git"
 projects[ding_debt][download][url] = "git@github.com:DBCDK/ding_debt.git"
 projects[ding_debt][download][tag] = "7.x-0.36+dbc.5"
+
+projects[ding_availability][type] = "module"
+projects[ding_availability][download][type] = "git"
+projects[ding_availability][download][url] = "git@github.com:DBCDK/ding_availability.git"
+projects[ding_availability][download][tag] = "7.x-0.36+dbc.5"
+
+projects[openruth][type] = "module"
+projects[openruth][download][type] = "git"
+projects[openruth][download][url] = "git@github.com:DBCDK/openruth.git"
+projects[openruth][download][tag] = "7.x-0.36+dbc.5"
