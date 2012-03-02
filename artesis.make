@@ -60,8 +60,3 @@ projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
 projects[openruth][download][url] = "git@github.com:DBCDK/openruth.git"
 projects[openruth][download][tag] = "7.x-0.36+dbc.5"
-
-projects[ting_material_details][type] = "module"
-projects[ting_material_details][download][type] = "git"
-projects[ting_material_details][download][url] = "git@github.com:DBCDK/ting_material_details.git"
-projects[ting_material_details][download][tag] = "7.x-0.36+dbc.5"
