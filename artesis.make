@@ -42,7 +42,7 @@ projects[ding_ting_frontend][download][tag] = "7.x-0.36+dbc.5"
 projects[ding_dibs][type] = "module"
 projects[ding_dibs][download][type] = "git"
 projects[ding_dibs][download][url] = "git@github.com:DBCDK/ding_dibs.git"
-projects[ding_dibs][download][tag] = "7.x-0.12+dbc.1"
+projects[ding_dibs][download][tag] = "7.x-0.12+dbc.2"
 
 projects[ding_debt][type] = "module"
 projects[ding_debt][download][type] = "git"
