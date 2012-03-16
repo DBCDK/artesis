@@ -16,7 +16,7 @@ projects[snapengage][download][branch] = "7.x-1.x"
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
-projects[artois][download][tag] = "7.x-0.33"
+projects[artois][download][tag] = "7.x-0.34"
 
 
 ; --- Artois versions of Ding2 modules ---
@@ -42,7 +42,7 @@ projects[ding_ting_frontend][download][tag] = "7.x-0.36+dbc.5"
 projects[ding_dibs][type] = "module"
 projects[ding_dibs][download][type] = "git"
 projects[ding_dibs][download][url] = "git@github.com:DBCDK/ding_dibs.git"
-projects[ding_dibs][download][tag] = "7.x-0.12+dbc.2"
+projects[ding_dibs][download][tag] = "7.x-0.12+dbc.2.2"
 
 projects[ding_debt][type] = "module"
 projects[ding_debt][download][type] = "git"
@@ -52,4 +52,4 @@ projects[ding_debt][download][tag] = "7.x-0.18+dbc.1"
 projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
 projects[openruth][download][url] = "git@github.com:DBCDK/openruth.git"
-projects[openruth][download][tag] = "7.x-0.16+dbc.1"
+projects[openruth][download][tag] = "7.x-0.16+dbc.2"
