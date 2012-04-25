@@ -16,7 +16,7 @@ projects[snapengage][download][branch] = "7.x-1.x"
 projects[artois][type] = "theme"
 projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
-projects[artois][download][tag] = "7.x-0.36"
+projects[artois][download][tag] = "7.x-0.37"
 
 
 ; --- Artois versions of Ding2 modules ---
