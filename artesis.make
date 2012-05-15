@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-includes[] = https://raw.github.com/DBCDK/dbcore/7.x-1.1/dbcore.make
+includes[] = https://raw.github.com/DBCDK/dbcore/develop/dbcore.make
 
 projects[artesis_user_frontend][type] = "module"
 projects[artesis_user_frontend][download][type] = "git"
