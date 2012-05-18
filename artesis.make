@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-includes[] = https://raw.github.com/DBCDK/dbcore/7.x-1.1/dbcore.make
+includes[] = https://raw.github.com/DBCDK/dbcore/7.x-1.2/dbcore.make
 
 projects[artesis_user_frontend][type] = "module"
 projects[artesis_user_frontend][download][type] = "git"
@@ -52,4 +52,4 @@ projects[ding_debt][download][tag] = "7.x-0.18+dbc.1"
 projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
 projects[openruth][download][url] = "git@github.com:DBCDK/openruth.git"
-projects[openruth][download][tag] = "7.x-0.16+dbc.3"
+projects[openruth][download][tag] = "7.x-0.16+dbc.4"
