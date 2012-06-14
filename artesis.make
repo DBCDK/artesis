@@ -17,6 +17,10 @@ projects[artois][download][type] = "git"
 projects[artois][download][url] = "git@github.com:DBCDK/artois.git"
 projects[artois][download][tag] = "7.x-0.37"
 
+projects[virtual_field][subdir] = contrib
+projects[virtual_field][type] = module
+projects[virtual_field][version] = 1.0
+
 
 ; --- Artois versions of Ding2 modules ---
 
